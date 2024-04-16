@@ -1,0 +1,122 @@
+Vegetable,Season,Month,Temp,Deasaster Happen in last 3month,condition,Price per kg
+potato,winter,jan,15,0,fresh,20
+tomato ,winter,jan,15,0,fresh,50
+peas,winter,jan,15,0,fresh,70
+pumkin,winter,jan,15,0,fresh,25
+cucumber,winter,jan,15,0,fresh,20
+pointed grourd ,winter,jan,15,1,fresh,130
+Raddish,winter,jan,15,0,fresh,10
+Bitter gourd,winter,jan,15,0,fresh,35
+onion,winter,jan,15,0,fresh,35
+tomato ,winter,jan,15,0,fresh,45
+garlic,winter,jan,15,0,fresh,150
+cabage,winter,jan,15,1,fresh,45
+califlower,winter,jan,15,0,fresh,20
+chilly,winter,jan,15,0,fresh,80
+okra,winter,jan,15,0,scrap,30
+pumkin,winter,jan,15,0,fresh,20
+brinjal,winter,jan,15,0,fresh,70
+ginger,winter,jan,15,0,fresh,20
+potato,summer,apr,32,0,fresh,25
+peas,summer,apr,33,0,fresh,100
+radish,summer,apr,32,0,fresh,30
+tomato ,summer,apr,35,0,avarage,80
+cabage,summer,apr,32,0,fresh,50
+califlower,summer,apr,37,0,fresh,60
+pointed grourd ,monsoon,july,30,0,fresh,25
+Raddish,summer,apr,37,1,avarage,70
+Bitter gourd,autumn,sept,32,0,fresh,70
+onion,summer,apr,38,0,fresh,20
+tomato ,monsoon,july,28,1,fresh,130
+garlic,autumn,oct,30,0,fresh,170
+cabage,monsoon,july,27,1,scrap,40
+califlower,winter,dec,18,0,fresh,20
+chilly,summer,may,40,1,fresh,200
+okra,monsoon,aug,29,0,fresh,15
+pumkin,summer,may,41,0,fresh,10
+brinjal,summer,may,38,0,fresh,40
+ginger,summer,june,37,1,scrap,200
+potato,monsoon,aug,31,1,fresh,40
+peas,monsoon,july,30,1,fresh,250
+ginger,winter,jan,15,1,fresh,90
+potato,winter,dec,15,0,scrap,16
+tomato ,winter,jan,15,0,avarage,30
+peas,winter,jan,15,0,scarp,40
+pumkin,monsoon, ,27,0,scrap,15
+cucumber,monsoon,july,31,0,avarage,12
+pointed grourd ,summer,may,43,0,avarage,50
+Raddish,winter,jan,15,0,fresh,15
+Bitter gourd,winter,dec,21,0,scarp,25
+onion,winter,jan,26,0,avarage,28
+tomato ,winter,jan,15,0,fresh,35
+garlic,winter,jan,15,0,fresh,120
+cabage,summer,jan,35,1,avarage,75
+califlower,spring,march,30,1,fresh,18
+chilly,winter,jan,15,0,fresh,80
+okra,monsoon,aug,29,1,fresh,40
+pumkin,winter,jan,15,0,fresh,20
+brinjal,winter,jan,15,1,fresh,70
+ginger,winter,jan,15,0,fresh,70
+potato,summer,apr,32,0,fresh,25
+peas,summer,apr,33,0,fresh,100
+radish,summer,apr,32,0,fresh,30
+tomato ,summer,apr,35,1,avarage,120
+cabage,summer,apr,32,0,fresh,50
+califlower,summer,apr,37,0,fresh,60
+pointed grourd ,monsoon,july,30,0,fresh,25
+Raddish,summer,apr,37,1,avarage,80
+pumkin,summer,may,41,0,fresh,15
+brinjal,summer,may,38,0,fresh,45
+ginger,summer,june,37,1,scrap,190
+potato,monsoon,aug,31,1,fresh,50
+peas,monsoon,july,30,1,fresh,210
+ginger,winter,jan,15,1,fresh,130
+potato,winter,dec,15,0,scrap,10
+tomato ,winter,jan,15,0,avarage,25
+peas,winter,jan,15,0,scarp,42
+pumkin,monsoon, ,27,0,scrap,20
+cucumber,monsoon,july,31,0,avarage,15
+pointed grourd ,summer,may,43,0,avarage,55
+Raddish,winter,jan,15,0,fresh,20
+Bitter gourd,winter,dec,21,0,scarp,29
+onion,winter,jan,26,0,avarage,32
+tomato ,winter,jan,15,0,fresh,20
+garlic,winter,jan,15,0,fresh,132
+cabage,summer,jan,35,1,avarage,60
+califlower,spring,march,30,1,fresh,21
+chilly,winter,jan,15,0,fresh,75
+okra,monsoon,aug,29,1,fresh,35
+pumkin,winter,jan,15,0,fresh,19
+brinjal,winter,jan,15,1,fresh,32
+ginger,winter,jan,15,0,fresh,90
+potato,summer,apr,32,0,fresh,22
+peas,summer,apr,33,0,fresh,35
+radish,summer,apr,32,0,fresh,21
+tomato ,summer,apr,35,1,avarage,90
+cabage,summer,apr,32,0,fresh,33
+califlower,summer,apr,37,0,fresh,55
+pointed grourd ,monsoon,july,30,0,fresh,30
+potato,monsoon,aug,31,1,fresh,45
+peas,monsoon,july,30,1,fresh,170
+ginger,winter,jan,15,1,fresh,150
+potato,winter,dec,15,0,scrap,24
+tomato ,winter,jan,15,0,avarage,30
+peas,winter,jan,15,0,scarp,35
+pumkin,monsoon, ,27,0,scrap,23
+cucumber,monsoon,july,31,0,avarage,21
+pointed grourd ,summer,may,43,0,avarage,53
+Raddish,winter,jan,15,0,fresh,27
+Bitter gourd,winter,dec,21,0,scarp,32
+onion,winter,jan,26,0,avarage,24
+tomato ,winter,jan,15,0,fresh,22
+garlic,winter,jan,15,0,fresh,123
+cabage,summer,jan,35,1,avarage,55
+califlower,spring,march,30,1,fresh,21
+chilly,winter,jan,15,0,fresh,90
+okra,monsoon,aug,29,1,fresh,25
+pumkin,winter,jan,15,0,fresh,21
+brinjal,winter,jan,15,1,fresh,33
+ginger,winter,jan,15,0,fresh,88
+potato,summer,apr,32,0,fresh,24
+peas,summer,apr,33,0,fresh,33
+radish,summer,apr,32,0,fresh,9
