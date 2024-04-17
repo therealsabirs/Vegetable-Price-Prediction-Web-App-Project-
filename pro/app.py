@@ -14,7 +14,7 @@ import base64
 
 # Set the working directory to the folder containing the CSV file
 import os
-os.chdir("C:/Users/saikhs/OneDrive - Serviceplan/Python Projects/Project2/")
+os.chdir("Path of file/")
 
 # Load the dataset into a Pandas DataFrame and remove 'condition' column
 vegetable_df = pd.read_csv("vegetable_data.csv")
